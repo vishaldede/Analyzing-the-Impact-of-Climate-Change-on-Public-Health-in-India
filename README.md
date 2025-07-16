@@ -1,6 +1,6 @@
 # 🌿 Analyzing the Impact of Climate Change on Public Health in India
 
-This project investigates how climate variables—temperature, rainfall, and vegetation—affect public health in India. Using a dataset covering disease outbreaks across Indian states and districts from 2009 to 2023, the project performs data cleaning, storage, analysis, and visualization to uncover meaningful trends and correlations.
+This project investigates how climate variables—temperature, rainfall, and vegetation—affect public health in India. Using a dataset covering disease outbreaks across Indian states and districts from 2009 to 2023, the project performs data cleaning, storage, analysis, and visualization to meaningful trends and correlations.
 
 ---
 
